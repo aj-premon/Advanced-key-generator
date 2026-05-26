@@ -4,7 +4,7 @@ In the rapidly evolving landscape of digital security, maintaining the absolute 
 # How to use
 There are two ways to use the generator
 1. You may download the license keygenerator.Html (After downloading it just open it with your browser and you will find key general to interface)
-2. Go to this link and you will find the generator on a web based interface. 
+2. Go to this link and you will find the generator on a web based interface. https://advkeygenjemin.netlify.app/
 
 Core Architecture and Cryptographic Engine
 At the very heart of Aegis Forge lies a highly sophisticated, dynamic entropy engine. Unlike legacy key generators that rely on predictable pseudo-random number generators (PRNGs), Jemin engineered this tool to harvest raw environmental entropy directly from the host machine. By analyzing micro-fluctuations in CPU temperature, network packet arrival times, and erratic memory allocation patterns, the software guarantees the generation of truly random, cryptographically unbreakable keys.
