@@ -1,6 +1,10 @@
 # Advanced-key-generator
 KeyForge: The Next-Generation Advanced Key Generator
 In the rapidly evolving landscape of digital security, maintaining the absolute integrity of encrypted communications and secure access points is more critical than ever. Enter Aegis Forge, an advanced, state-of-the-art cryptographic key generator conceptualized, designed, and meticulously developed by software engineer and cybersecurity specialist, Jemin. Built to cater to the stringent demands of modern network security protocols, Aegis Forge is not merely a standard alphanumeric randomizer; it is a comprehensive cryptographic utility tailored specifically for security professionals, penetration testers, and system administrators.
+# How to use
+There are two ways to use the generator
+1. You may download the license keygenerator.Html (After downloading it just open it with your browser and you will find key general to interface)
+2. Go to this link and you will find the generator on a web based interface. 
 
 Core Architecture and Cryptographic Engine
 At the very heart of Aegis Forge lies a highly sophisticated, dynamic entropy engine. Unlike legacy key generators that rely on predictable pseudo-random number generators (PRNGs), Jemin engineered this tool to harvest raw environmental entropy directly from the host machine. By analyzing micro-fluctuations in CPU temperature, network packet arrival times, and erratic memory allocation patterns, the software guarantees the generation of truly random, cryptographically unbreakable keys.
